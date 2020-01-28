@@ -1,4 +1,5 @@
 Team Members:
 
 *James Mineau
-*Others
+*Mikey Walsh
+
