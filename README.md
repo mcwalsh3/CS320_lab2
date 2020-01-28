@@ -1,1 +1,3 @@
-# CS320_lab2
+#Milk and Rum Inc.
+
+Best of both worlds!
